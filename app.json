@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "newNav-v5",
+    "slug": "newNav-v5",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "newNav-v5"
+}
